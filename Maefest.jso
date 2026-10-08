@@ -1,0 +1,10 @@
+{
+  "name": "CA Performance",
+  "short_name": "CA Performance",
+  "description": "Aplicación de entrenamiento y rendimiento físico",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#d00000",
+  "lang": "es"
+}
